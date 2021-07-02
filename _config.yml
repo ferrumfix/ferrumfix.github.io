@@ -1,5 +1,12 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
+title: FerrumFIX
+description: A free and open-source FIX implentation in Rust
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
+
+github:
+  is_project_page: true
+  repository_url: https://github.com/ferrumfix/ferrumfix
+  zip_url: http://example.com/download.zip
+  another_url: another value
+
