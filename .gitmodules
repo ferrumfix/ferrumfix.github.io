@@ -1,3 +1,4 @@
 [submodule "ferrumfix"]
 	path = ferrumfix
-	url = git@github.com:ferrumfix/ferrumfix.git
+	url = https://github.com/ferrumfix/ferrumfix
+
